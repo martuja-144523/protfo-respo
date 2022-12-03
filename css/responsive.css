@@ -1,0 +1,116 @@
+/* xxl device */
+@media (min-width:1400px) {
+
+}
+/* xl device */
+@media (min-width:1200px) and (max-width:1399.98px) {
+
+}
+/* lg device  */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner {
+        height: 700px;
+    }
+    .ban-sec .t-style .ban-text h2 {
+        font-size: 28px;
+        padding-bottom: 25px;
+    }
+    .ban-sec .t-style .ban-text p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 30px;
+        text-transform: none;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .about .row .ab-child .child i {
+        font-size: 20px;
+    }
+    #skill .row .skil-tx h4 {
+        padding-bottom: 25px;
+    }
+    p {
+        font-size: 14px;
+    }
+    #skill .row .skil-tx a {
+        padding: 15px 25px;
+        font-size: 16px;
+    }
+    #skill .row {
+        padding: 80px 0;
+    }
+    #resume {
+        padding: 80px 60px;
+    }
+    #resume a {
+        padding: 15px 25px;
+        font-size: 16px;
+    }
+    h4 {
+        font-size: 26px !important;
+    }
+    .edu .container .edu-info p {
+        padding: 25px 0;
+    }
+    .edu .container .edu-det div {
+        padding-bottom: 40px;
+    }
+    .edu .container {
+        padding-top: 70px;
+    }
+    #tag {
+        padding: 50px 0;
+    }
+    #portfolio .container {
+        padding: 60px;
+    }
+}
+/* sm device */
+@media (min-width:768px) and (max-width:991.98px) {
+    .banner {
+        height: 600px;
+    }
+    .banner .b-text h1 {
+        font-size: 40px;
+    }
+    .banner .b-text a {
+        padding: 10px 15px;
+    }
+    .ban-sec .t-style .ban-text p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .ban-sec .t-style .ban-text h2 {
+        padding-bottom: 20px;
+    }
+    p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 22px;
+        color: #566366;
+    }
+    h4 {
+        font-size: 12px !important;
+    }
+    .about .row .ab-child .child i {
+        font-size: 23px;
+    }
+    #ab .container p {
+        font-size: 14px;
+    }
+    .about .ab-child .child {
+        padding: 0 38px 38px 0;
+    }
+}
+/* md device */
+@media (min-width:576px) and (max-width:767.98px) {
+
+}
+/* xs device */
+@media (max-width:1399.98px) {
+
+}
